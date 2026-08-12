@@ -2,7 +2,7 @@
 
 ###  Full-Stack Developer • Computer Science Graduate • Software Engineer in Progress
 
-> **Building today. Learning every day. Engineering for tomorrow. **
+> Building today. Learning every day. Engineering for tomorrow. 
 
 I'm a **Computer Science graduate** focused on becoming a strong, well-rounded software engineer.
 
