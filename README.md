@@ -1,8 +1,8 @@
 #  Hey, I'm Muhammad Tayyab
 
-### 💻 Full-Stack Developer • Computer Science Graduate • Software Engineer in Progress
+###  Full-Stack Developer • Computer Science Graduate • Software Engineer in Progress
 
-> **Building today. Learning every day. Engineering for tomorrow. 🚀**
+> **Building today. Learning every day. Engineering for tomorrow. **
 
 I'm a **Computer Science graduate** focused on becoming a strong, well-rounded software engineer.
 
@@ -408,7 +408,7 @@ Measure it by:
 
 > **Consistency beats motivation.**
 
-One hour of focused engineering every day can compound into something massive over time. 🚀
+One hour of focused engineering every day can compound into something massive over time. 
 
 ---
 
